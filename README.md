@@ -47,3 +47,5 @@ This project explores advanced image classification techniques using three machi
 
 Details on environment setup, dependencies, and step-by-step instructions to train and evaluate the models are included in the project notebooks.
 
+Notes:
+For our image classification project, if your classes are balanced and misclassification costs are roughly equal, accuracy might suffice. 
