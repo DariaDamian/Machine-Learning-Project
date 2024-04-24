@@ -13,9 +13,9 @@ This project explores advanced image classification techniques using three machi
 
 ### Models and Methodology
 
-1. **Neural Network:** Designed a Feed-forward neural network from scratch. The model includes an input layer, multiple hidden layers, and an output layer, using the Sigmoid activation function.
-2. **Support Vector Machine (SVM):** Implemented using the polynomial kernel to effectively handle the non-linear nature of image data.
-3. **Decision Tree:** Built from scratch, focusing on simplicity and computational efficiency. Utilized Gini impurity for decision making at nodes.
+1. **Neural Network:** Designed a Feed-forward neural network from scratch. The model includes an input layer, multiple hidden layers, and an output layer, using the Sigmoid activation function. Accuracy=84.34%.
+2. **Support Vector Machine (SVM):** Implemented using the polynomial kernel to effectively handle the non-linear nature of image data. Accuracy=86.12%
+3. **Decision Tree:** Built from scratch, focusing on simplicity and computational efficiency. Utilized Gini impurity for decision making at nodes.  Accuracy=76.82%
 
 ### Results
 
